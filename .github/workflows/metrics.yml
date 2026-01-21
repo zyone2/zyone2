@@ -19,7 +19,7 @@ jobs:
           filename: github-metrics/base.svg
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          # Options
+          # Your metrics username
           user: Zyone2
           template: classic
           config_timezone: Asia/Shanghai
