@@ -287,7 +287,7 @@ Windows                  3 hrs 14 mins       ███████████�
   </tr>
 </table>
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/e4a3d0bb3485b4c7a19468d6b21640518771dc28.svg" />
+<img width="120%" src="https://repobeats.axiom.co/api/embed/89ec3e28fd33d3f0ed651b1faf44d8e9de07da99.svg" />
 
 <img src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/assets/images/icon.png" />
 </div>
