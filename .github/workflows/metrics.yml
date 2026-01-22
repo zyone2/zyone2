@@ -4,7 +4,8 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "*/15 * * * *"  # 每15分钟运行一次（用于测试）
+    - cron: "0 0 * * *"     # 每天UTC 0点
     # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
   workflow_dispatch:
 
