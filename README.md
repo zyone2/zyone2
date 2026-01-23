@@ -285,7 +285,7 @@ Windows                  11 hrs 16 mins      ███████████�
   </tr>
 </table>
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dc25dd562492f4d56c7c392727c39508e3ccab98.svg" />
+<img width="120%" src="https://repobeats.axiom.co/api/embed/2bfc878c3768027582b1c76b9025657dc65b5f32.svg" />
 
 <img src="https://cdn.jsdelivr.net/gh/zhizhi2213/zhizhi2213/assets/images/icon.png" />
 </div>
