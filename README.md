@@ -55,8 +55,11 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/zhizhi2213/zhizhi2213/assets/images/astronaut.png" />
 
-<!--START_SECTION:feed-->
-<!--END_SECTION:feed-->
+<!-- feed start -->
+- <a href=''>首页美化教程'</a> <sub>()</sub>
+- <a href=''>如何创建GitHub个人网站</a> <sub>()</sub>
+- <a href=''>Hello World</a> <sub>()</sub>
+<!-- feed end -->
 
 </td></tr>
 
@@ -302,8 +305,3 @@ Windows                  11 hrs 16 mins      ███████████�
 </div>
 
 </div>
-<!-- feed start -->
-- <a href=''>首页美化教程'</a> <sub>()</sub>
-- <a href=''>如何创建GitHub个人网站</a> <sub>()</sub>
-- <a href=''>Hello World</a> <sub>()</sub>
-<!-- feed end -->
